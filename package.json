@@ -1,0 +1,19 @@
+{
+  "name": "nodetranscoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transcoderStart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "4"
+  ],
+  "author": "Kundan Singh",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg-binaries": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "mongodb": "^3.1.1"
+  }
+}
